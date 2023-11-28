@@ -1,0 +1,91 @@
+<schedule>
+	<day>Tuesday</day>
+	<group>P3113</group>
+	<lang>ru</lang>
+	<lessons>
+		<lesson_1>
+			<lesson-format>Очно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>2435/7</room>
+			<subject_name>Программирование</subject_name>
+			<time>10:00-11:30</time>
+			<type>Лабораторная</type>
+			<weeks>1</weeks>
+			<weeks>3</weeks>
+			<weeks>5</weeks>
+			<weeks>7</weeks>
+			<weeks>9</weeks>
+			<weeks>11</weeks>
+			<weeks>13</weeks>
+			<weeks>15</weeks>
+		</lesson_1>
+		<lesson_2>
+			<lesson-format>Очно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>2435/7</room>
+			<subject_name>Программирование</subject_name>
+			<time>11:40-13:10</time>
+			<type>Лабораторная</type>
+			<weeks>1</weeks>
+			<weeks>3</weeks>
+			<weeks>5</weeks>
+			<weeks>7</weeks>
+			<weeks>9</weeks>
+			<weeks>11</weeks>
+			<weeks>13</weeks>
+			<weeks>15</weeks>
+		</lesson_2>
+		<lesson_3>
+			<lesson-format>Очно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>2117</room>
+			<subject_name>Информатика</subject_name>
+			<time>13:30-15:00</time>
+			<type>Лабораторная</type>
+			<weeks>1</weeks>
+			<weeks>3</weeks>
+			<weeks>5</weeks>
+			<weeks>7</weeks>
+			<weeks>9</weeks>
+			<weeks>11</weeks>
+			<weeks>13</weeks>
+			<weeks>15</weeks>
+		</lesson_3>
+		<lesson_4>
+			<lesson-format>Очно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>2117</room>
+			<subject_name>Информатика</subject_name>
+			<time>15.20-16:50</time>
+			<type>Лабораторная</type>
+			<weeks>9</weeks>
+			<weeks>11</weeks>
+			<weeks>13</weeks>
+			<weeks>15</weeks>
+		</lesson_4>
+		<lesson_5>
+			<lesson-format>Очно-заочно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>1229</room>
+			<subject_name>Основы дискретной математики (продвинутый уровень)</subject_name>
+			<time>17.00-18.30</time>
+			<type>Лекция</type>
+			<weeks>1</weeks>
+			<weeks>2</weeks>
+			<weeks>3</weeks>
+			<weeks>4</weeks>
+		</lesson_5>
+		<lesson_6>
+			<lesson-format>Очно-заочно</lesson-format>
+			<place>Кронверский пр., д.49, лит.А</place>
+			<room>1338</room>
+			<subject_name>Основы дискретной математики (продвинутый уровень)</subject_name>
+			<time>18.40-20.10</time>
+			<type>Практика</type>
+			<weeks>1</weeks>
+			<weeks>2</weeks>
+			<weeks>3</weeks>
+			<weeks>4</weeks>
+		</lesson_6>
+	</lessons>
+</schedule>
